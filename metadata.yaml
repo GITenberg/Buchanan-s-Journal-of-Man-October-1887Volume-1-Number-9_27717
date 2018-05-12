@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '25273'
     url: http://www.gutenberg.org/2009/agents/25273
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27717#Buchanan-s-Journal-of-Man-October-1887Volume-1-Number-9
 gutenberg_bookshelf: Buchanan's Journal of Man
 gutenberg_issued: '2009-01-06'
 gutenberg_type: Text
